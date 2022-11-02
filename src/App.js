@@ -21,3 +21,5 @@ function App() {
   )
 }
 export default App;
+
+//fully understand the context api
